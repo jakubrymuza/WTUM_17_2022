@@ -1,1 +1,1 @@
-# WTUM_17_2022
+Warsztaty z technik uczenia maszynowego, grupa 17, 2022r.
